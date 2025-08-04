@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingTop: 50,
     paddingHorizontal: 20,
-    backgroundColor: "#f9f9f9",
+    backgroundColor: "#d3d3d3", // Changed to grey
   },
   buttonContainer: {
     alignItems: "center",
